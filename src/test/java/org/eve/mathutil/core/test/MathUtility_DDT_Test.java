@@ -22,7 +22,7 @@ public class MathUtility_DDT_Test {
                               {1,1},
                               {2,2},
                               {3,6},
-                              {5,1200}};
+                              {5,120}};
         
         return testData;
     }
