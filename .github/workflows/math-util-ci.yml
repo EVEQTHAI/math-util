@@ -1,5 +1,5 @@
 
-name: Math Utility with Maven & CI using GitHub Actions |© 2030 by evethai
+name: Math Utility with Maven & CI using GitHub Actions |© 2023 by evethai
 
 on:
   push:
